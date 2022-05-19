@@ -40,7 +40,6 @@ function App() {
           <img className="local-image" src={"https://random.imagecdn.app/5100/1250"} alt="image001" />
         </div>
       </div>
-      {/* <img className="local-image" src={"https://random.imagecdn.app/500/150"} alt="image001" /> */}
     </div>
   );
 }
